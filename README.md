@@ -51,3 +51,6 @@ typescipt 2022-01 2022-02 2022-03
 feature_01  123 145 166
 feature_02  20  45  45
 ```
+
+## LICENSE
+MIT
